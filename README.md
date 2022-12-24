@@ -2,9 +2,7 @@
 
 > 花了一个通宵在B站充电学了一下Java的GUI编程开发, 虽然太难的可能还是实现不了,但是基础的应该是可以满足了,这里挂一下跟着教程记的学习笔记吧
 >
-> [【狂神说Java】GUI编程入门到游戏实战](https://www.bilibili.com/video/BV1DJ411B75F)(跟完这个就没必要看下面那个了)
->
-> [Java-GUI编程基础](https://www.bilibili.com/video/BV12K411U7xX)
+> 项目源码见https://github.com/h0cksr/GUIStudy
 
 ## AWT
 
@@ -119,7 +117,7 @@ public class TestFlowLayout {
 
 ![image-20221225001130341](https://images-1306872001.cos.ap-nanjing.myqcloud.com/img/image-20221225001130341.png)
 
-#### 东西南北中BorderLayout
+#### 边界布局BorderLayout
 
 ```java
 package Kuangshen.lession01;
@@ -1658,3 +1656,15 @@ public class NullLayoutFrm extends JFrame{
 
 
 
+
+
+
+
+学习链接:
+
+1. [【狂神说Java】GUI编程入门到游戏实战](https://www.bilibili.com/video/BV1DJ411B75F)(跟完这个就没必要看下面那个了)
+2. [Java-GUI编程基础](https://www.bilibili.com/video/BV12K411U7xX)
+
+
+
+2022_12_25 星期日06:30
